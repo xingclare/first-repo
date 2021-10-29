@@ -3,6 +3,11 @@ abc
 
 ## Requirements
 
+- python>3.8
+- requests
+- beautifulsoup4
+- docker
+
 ## Installation
 
-## How to contribut e
+## How to contribute
